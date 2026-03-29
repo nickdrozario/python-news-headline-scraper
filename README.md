@@ -28,6 +28,8 @@ python-news-headline-scraper
 ├── .gitignore
 ├── requirements.txt
 └── screenshots/
+    |__ example_run.png
+    |__ example_results.png
 ```
 
 ## Installation
