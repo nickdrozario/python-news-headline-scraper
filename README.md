@@ -76,7 +76,11 @@ headlines_output.txt
 
 ## Screenshot
 
+### Example Run
 ![Example Run](screenshots/example_run.png)
+
+### Example Results
+![Example Results](screenshots/example_results.png)
 
 ## Concepts Demonstrated
 
